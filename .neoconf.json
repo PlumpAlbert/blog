@@ -1,0 +1,11 @@
+{
+	"options": {
+		"theme": "vscode",
+		"indent": 4,
+		"useTabs": true,
+		"rulers": [
+			100
+		],
+		"wrap": false
+	}
+}
