@@ -1,6 +1,6 @@
 {
 	"options": {
-		"theme": "vscode",
+		"theme": "tokyonight",
 		"indent": 4,
 		"useTabs": true,
 		"rulers": [
