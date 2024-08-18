@@ -7,5 +7,10 @@
 			100
 		],
 		"wrap": false
+	},
+	"formatters": {
+		"markdown": [
+			"prettier"
+		]
 	}
 }
