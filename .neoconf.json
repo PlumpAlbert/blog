@@ -1,16 +1,14 @@
 {
-	"options": {
-		"theme": "tokyonight",
-		"indent": 4,
-		"useTabs": true,
-		"rulers": [
-			100
-		],
-		"wrap": false
-	},
-	"formatters": {
-		"markdown": [
-			"prettier"
-		]
-	}
+  "options": {
+    "theme": "dracula",
+    "indent": 2,
+    "useTabs": true,
+    "rulers": [100],
+    "wrap": false
+  },
+  "formatters": {
+    "markdown": ["prettier"],
+    "json": ["prettier"],
+    "jsonc": ["prettier"]
+  }
 }
